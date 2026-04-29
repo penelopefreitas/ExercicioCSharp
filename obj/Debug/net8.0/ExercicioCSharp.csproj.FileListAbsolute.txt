@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\ExercicioCSharp\bin\Debug\net8.0\ExercicioCSharp.exe
+C:\Users\fic\Desktop\ExercicioCSharp\bin\Debug\net8.0\ExercicioCSharp.deps.json
+C:\Users\fic\Desktop\ExercicioCSharp\bin\Debug\net8.0\ExercicioCSharp.runtimeconfig.json
+C:\Users\fic\Desktop\ExercicioCSharp\bin\Debug\net8.0\ExercicioCSharp.dll
+C:\Users\fic\Desktop\ExercicioCSharp\bin\Debug\net8.0\ExercicioCSharp.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.dll
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\refint\ExercicioCSharp.dll
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ref\ExercicioCSharp.dll
