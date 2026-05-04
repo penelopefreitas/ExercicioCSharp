@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\refint\ExercicioCSharp.dll
 C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.pdb
 C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.genruntimeconfig.cache
 C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ref\ExercicioCSharp.dll
+C:\Users\fic\Desktop\ExercicioCSharp\obj\Debug\net8.0\ExercicioCSharp.sourcelink.json

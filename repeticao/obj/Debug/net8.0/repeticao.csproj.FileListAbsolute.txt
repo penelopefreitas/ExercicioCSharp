@@ -12,3 +12,4 @@ C:\Users\fic\Desktop\ExercicioCSharp\repeticao\obj\Debug\net8.0\refint\repeticao
 C:\Users\fic\Desktop\ExercicioCSharp\repeticao\obj\Debug\net8.0\repeticao.pdb
 C:\Users\fic\Desktop\ExercicioCSharp\repeticao\obj\Debug\net8.0\repeticao.genruntimeconfig.cache
 C:\Users\fic\Desktop\ExercicioCSharp\repeticao\obj\Debug\net8.0\ref\repeticao.dll
+C:\Users\fic\Desktop\ExercicioCSharp\repeticao\obj\Debug\net8.0\repeticao.sourcelink.json

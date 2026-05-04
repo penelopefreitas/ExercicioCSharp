@@ -18,7 +18,7 @@ class Program
        // Exemplo FOR
        // 1°: int i = 1 -> inicializador, valor inicial
        // 2°: i <= 5 é a condição. Se for verdadeiro, continua executando.
-       //3°: i++ -> iterador, acrescenta um valor a mais dentro do i (i = 1 + 1 )
+       // 3°: i++ -> iterador, acrescenta um valor a mais dentro do i (i = 1 + 1 )
 
     //    for(int i = 1; i <= 5; i++)
     //    {
@@ -30,7 +30,7 @@ class Program
     //     soma = soma + i;
     //     //soma += 1;
     //      Console.WriteLine("Soma total: " + soma);
-     // }
+    //  }
     //     Console.WriteLine("Soma: " + soma);
 
     // Exemplo WHILE
@@ -38,7 +38,7 @@ class Program
     // while(contador <= 5)
     // {
     //     Console.WriteLine(contador);
-    //     //contador = contado + 1
+    //     //contador = contador + 1
     //     contador++;
     // }
     //     Console.WriteLine("Contador final:" + contador);
@@ -110,13 +110,42 @@ class Program
     //*************************************************
 
     // CONTAGEM REGRESSIVA - ATIVIDADE 2
+    // for(int i = 10; i >= 1; i++)
+    //   {
+    //    Console.WriteLine(i);
+    //  }
 
+    // REPETIÇÃO COM WHILE - ATIVIDADE 4
+    // int contador = 1;
 
-    // VALIDAÇÃO DE SENHA - ATIVIDADE 3
-     
+    // while(contador <= 5)
+    // {
+    //     Console.WriteLine(contador++);
+         
+    // }
+
+    //TABUADA SIMPLES ***** FALTA TERMINAR
     
-    
+    //  int multiplicacao = 0;
+    //  for(int i = 2;  <= 10; i++)
+    //  {
+    //     multiplicacao = multiplicacao * i;
+    //     Console.WriteLine(multiplicacao);
+    //  }
+        
+    // VALIDAÇÃO DE SENHA - ATIVIDADE
+    string senha = "1234";
 
+    string digiteSenha = Console.ReadLine();
 
+    while(senha != "1234")
+    {
+        Console.WriteLine("Senha incorreta. Digite novamente");
     }
+        Console.WriteLine("")
+    
+    
+
+
+ }     
 }
