@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.AssemblyInfo.cs
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.sourcelink.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\bin\Debug\net8.0\ProjetLanchonete.exe
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\bin\Debug\net8.0\ProjetLanchonete.deps.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\bin\Debug\net8.0\ProjetLanchonete.runtimeconfig.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\bin\Debug\net8.0\ProjetLanchonete.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\bin\Debug\net8.0\ProjetLanchonete.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\refint\ProjetLanchonete.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ProjetLanchonete.genruntimeconfig.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\ProjetLanchonete\obj\Debug\net8.0\ref\ProjetLanchonete.dll

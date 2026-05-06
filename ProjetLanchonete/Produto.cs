@@ -5,22 +5,27 @@ using System.Threading.Tasks;
 
 namespace ProjetLanchonete
 {
-    public class Produto
-    {
-        public abstract class Produto
+    public abstract class Produto
     {
         
-        public string nome{get; set;}
-        public decimal precoBase{get; private set;}
+    
+        
+        public string Nome{get; set;}
+        public decimal PrecoBase{get;  set;}
 
+        //NÃO tem corpo, por isso é vazio (não tem "{}") <--
+        public abstract decimal CalcularPrecoFinal();
+        
 
-        public abstract void CalcularPrecoFinal();
-
-        public  void ExibirResumo(){
-            Console.WriteLine($"Produto: {nome}");
+        public  void ExibirResumo()
+        {
+            Console.WriteLine($"Produto: {Nome}");
             Console.WriteLine($"Preço Final: ");
 
             
         }
+
     }
+
+    
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kvRGyjgLdsY6eOWPXeqlzuzRoVxqAt99kE5iXuIjQG5aPtdyuAMK+iZ+p8BW3SrcX8piYEef1+0UXdB/cOyOxA==",
+  "dgSpecHash": "8NQqsBfAlrc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\ExercicioCSharp\\ProjetLanchonete\\ProjetLanchonete.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Windows\\Desktop\\POOCSharp\\ExercicioCSharp\\ProjetLanchonete\\ProjetLanchonete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Windows\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
