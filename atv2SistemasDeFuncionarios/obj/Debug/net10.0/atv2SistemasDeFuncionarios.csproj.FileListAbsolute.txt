@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\bin\Debug\net10.0\atv2SistemasDeFuncionarios.exe
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\bin\Debug\net10.0\atv2SistemasDeFuncionarios.deps.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\bin\Debug\net10.0\atv2SistemasDeFuncionarios.runtimeconfig.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\bin\Debug\net10.0\atv2SistemasDeFuncionarios.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\bin\Debug\net10.0\atv2SistemasDeFuncionarios.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.AssemblyInfo.cs
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.sourcelink.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\refint\atv2SistemasDeFuncionarios.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\atv2SistemasDeFuncionarios.genruntimeconfig.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv2SistemasDeFuncionarios\obj\Debug\net10.0\ref\atv2SistemasDeFuncionarios.dll
