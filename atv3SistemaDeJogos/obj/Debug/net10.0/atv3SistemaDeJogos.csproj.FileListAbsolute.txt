@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\bin\Debug\net10.0\atv3SistemaDeJogos.exe
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\bin\Debug\net10.0\atv3SistemaDeJogos.deps.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\bin\Debug\net10.0\atv3SistemaDeJogos.runtimeconfig.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\bin\Debug\net10.0\atv3SistemaDeJogos.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\bin\Debug\net10.0\atv3SistemaDeJogos.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.AssemblyInfo.cs
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.sourcelink.json
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\refint\atv3SistemaDeJogos.dll
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.pdb
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\atv3SistemaDeJogos.genruntimeconfig.cache
+C:\Users\Windows\Desktop\POOCSharp\ExercicioCSharp\atv3SistemaDeJogos\obj\Debug\net10.0\ref\atv3SistemaDeJogos.dll

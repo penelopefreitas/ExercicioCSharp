@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("atv2SistemasDeFuncionarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e882f258a5b84e2cf70dab882ea061d35febd2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc52157f634c646bde72cdea0e1bd7a09cec84b")]
 [assembly: System.Reflection.AssemblyProductAttribute("atv2SistemasDeFuncionarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("atv2SistemasDeFuncionarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

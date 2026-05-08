@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "atv3SistemaDeJogos/1.0.0": {
+        "runtime": {
+          "atv3SistemaDeJogos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atv3SistemaDeJogos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
