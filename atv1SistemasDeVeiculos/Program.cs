@@ -4,19 +4,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        Carro obj1 = new Carro(); // <- Classe.objeto = new instância(vazia).
-        obj1.Modelo = "Civic";  // <- Cria objeto.Variavel( vinda da classe pai){Modelo}.
-        obj1.Ano = 2026;        
+        List<Veiculo> variavel1 = new List<Veiculo>() //<- Cria uma lista do tipo Veículo onde armazenará os objetos. OBS: Será do tipo veículo porque ambas as classes, Moto e Carro a herdam.
+        {
+            new Carro("Civic", 2025), // <- cria um objeto da classe Carro onde o construtor da mesma recebe esses valores.<<
+            new Moto("PCX", 2025)     // <- O mesmo do comentário acima.
 
-        Moto obj2 = new Moto(); // <- O mesmo comentário do obj1.
-        obj2.Modelo = " Sahara"; // <- Cria objeto.Variavel( vinda da classe pai){Modelo}.
-        obj2.Ano = 2025;        // <- Cria objeto.Variavel( vinda da classe pai){Ano}.
+        };
+        //foreach -> dá a primeira volta em objeto Carro e chama o valor Civic 2025.
+        foreach(Veiculo veiculos in variavel1) // foreach(Tipo[Veiculo] nomeDaVariavel[veiculos] in list[variavel1])
+        {
+            veiculos.ExibirResumo(); 
+        }
+
         
         
-
-        obj1.ExibirResumo();
-        Console.WriteLine("***************************");
-        obj2.ExibirResumo();
-
+    
     }
 }

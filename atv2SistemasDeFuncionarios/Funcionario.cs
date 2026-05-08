@@ -11,8 +11,12 @@ namespace atv2SistemasDeFuncionarios
         public decimal SalarioBase;
 
         public abstract decimal CalcularSalario();
-
-        public void ExibirResumo()
+        public Funcionario(string NomeDoConstrutor, decimal SalarioBaseDoConstrutor)
+        {
+            Nome = NomeDoConstrutor;
+            SalarioBase = SalarioBaseDoConstrutor;
+        }
+        public virtual void ExibirResumo()
         {
             Console.WriteLine($"Nome: {Nome}");
             Console.WriteLine($"Salário: {SalarioBase:C}");
