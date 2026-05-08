@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\domains\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\domains\\livros.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\fic\\source\\repos\\bibliotecaapi\\bibliotecaapi\\domains\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCCD8AC-9C76-4314-A207-B540028886A4}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\domains\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:05:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LivroController.cs*",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LivroController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:58:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Services\\LivroService.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Services\\LivroService.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Services\\LivroService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:52:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:28:23.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Interfaces\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:23:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "livros.json",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Domains\\livros.json",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Domains\\livros.json",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Domains\\livros.json",
+              "RelativeToolTip": "BibliotecaAPI\\Domains\\livros.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T17:18:37.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Domains\\Livro.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Domains\\Livro.cs",
+              "ToolTip": "C:\\Users\\fic\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\Domains\\Livro.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Domains\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:11:04.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

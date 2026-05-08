@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.sourcelink.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\bin\Debug\net8.0\atv5SistemasDeCursos.exe
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\bin\Debug\net8.0\atv5SistemasDeCursos.deps.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\bin\Debug\net8.0\atv5SistemasDeCursos.runtimeconfig.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\bin\Debug\net8.0\atv5SistemasDeCursos.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\bin\Debug\net8.0\atv5SistemasDeCursos.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\refint\atv5SistemasDeCursos.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\atv5SistemasDeCursos.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv5SistemasDeCursos\obj\Debug\net8.0\ref\atv5SistemasDeCursos.dll

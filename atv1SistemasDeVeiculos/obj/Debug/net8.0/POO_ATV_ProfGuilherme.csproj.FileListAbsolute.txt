@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\bin\Debug\net8.0\POO_ATV_ProfGuilherme.exe
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\bin\Debug\net8.0\POO_ATV_ProfGuilherme.deps.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\bin\Debug\net8.0\POO_ATV_ProfGuilherme.runtimeconfig.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\bin\Debug\net8.0\POO_ATV_ProfGuilherme.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\bin\Debug\net8.0\POO_ATV_ProfGuilherme.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.AssemblyInfo.cs
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.sourcelink.json
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\refint\POO_ATV_ProfGuilherme.dll
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.pdb
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\POO_ATV_ProfGuilherme.genruntimeconfig.cache
+C:\Users\fic\Desktop\ExercicioCSharp\atv1SistemasDeVeiculos\obj\Debug\net8.0\ref\POO_ATV_ProfGuilherme.dll
